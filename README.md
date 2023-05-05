@@ -7,6 +7,11 @@ to arrive (hasn't happened yet!).
 
 ## Installation
 
+The most annoying part of this setup is actually signing up for the
+OpenWeatherMap One Call API 3.0. It works great, it's free up to 1000 calls a
+day (plenty for a watch).... but you need a credit card to sign up for it. Oh
+well.
+
 1. Download the DIN Time pbw [from the Rebble store](https://apps.rebble.io/en_US/application/54f9cb9ecf945829e8000048?dev_settings=true&native=false)
 2. Edit `pebble-js-app.js` in this repo with a valid `API_KEY` from your
    [OpenWeatherMap API keys page](https://home.openweathermap.org/api_keys).
